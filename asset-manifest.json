@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/driver-app-react/static/css/main.8eac836d.css",
+    "main.js": "/driver-app-react/static/js/main.60702b81.js",
+    "static/media/options-bg.jpg": "/driver-app-react/static/media/options-bg.751f4fd00591db59aeff.jpg",
+    "static/media/handling-bg.jpg": "/driver-app-react/static/media/handling-bg.ce46849b2263efd1ebf7.jpg",
+    "static/media/power-bg.jpg": "/driver-app-react/static/media/power-bg.84425e49e4c3e66303b3.jpg",
+    "static/media/contact-bg.jpg": "/driver-app-react/static/media/contact-bg.6f2977c9fcb1ab7d3ec9.jpg",
+    "static/media/speed-bg.jpg": "/driver-app-react/static/media/speed-bg.b62889516a4c546b7b22.jpg",
+    "index.html": "/driver-app-react/index.html",
+    "main.8eac836d.css.map": "/driver-app-react/static/css/main.8eac836d.css.map",
+    "main.60702b81.js.map": "/driver-app-react/static/js/main.60702b81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eac836d.css",
+    "static/js/main.60702b81.js"
+  ]
+}
